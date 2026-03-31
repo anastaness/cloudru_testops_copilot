@@ -10,7 +10,7 @@
 
 ## Сведения о хакатоне 
 - Даты хакатона: 4-11 декабря 2025
-- Диплом участника:  [`Диплом`](docs/diploma/diplom-matveev-ilya.pdf)
+- Диплом участника:  [`Диплом`](https://drive.google.com/file/d/1kKcyuWM3JT5lO44tbhUww385ffiyWAXN/view?usp=sharing)
 
 ## Установка
 #### 1. Установите Docker и Docker Compose
@@ -26,8 +26,8 @@ docker compose version
 ```
 #### 2. Клонирование репозитория
 ```
-git clone https://github.com/hep2014/cloudCopilot.git
-cd cloudCopilot
+git clone https://github.com/anastaness/cloudru_testops_copilot.git
+cd cloudru_testops_copilot
 ```
 ## Конфигурация окружения
 Перед запуском необходимо создать файл .env в каталоге backend:
@@ -128,7 +128,7 @@ POST /llm/bulk-api-tests
 ```
 ## Архитектура проекта
 ```
-cloudCopilot/
+cloudru_testops_copilot/
  ├── backend/
  │    ├── app/
  │    ├── Dockerfile
