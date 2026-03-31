@@ -10,8 +10,8 @@
 
 ## Сведения о хакатоне 
 - Даты хакатона: 4-11 декабря 2025
-- Диплом участника:  [`Диплом`](https://drive.google.com/file/d/1kKcyuWM3JT5lO44tbhUww385ffiyWAXN/view?usp=sharing)
-
+- Диплом участника:  [`Диплом`](https://github.com/anastaness/cloudru_testops_copilot/blob/main/docs/changellenge2_testops_cloud.pdf)
+  
 ## Установка
 #### 1. Установите Docker и Docker Compose
 **Для Ubuntu:**
