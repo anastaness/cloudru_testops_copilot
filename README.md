@@ -15,11 +15,12 @@
 **Презентация решения:** [`testops`](docs/TestOpsCopilot.pdf)
 
 ## Демонстрация интерфейса 
-![Вход](https://github.com/anastaness/cloudru_testops_copilot/raw/main/docs/images/main.png)
+
+![Вход](docs/images/main.jpg)
 Продуманный и стильный пользовательский интерфейс с четким разделением на 6 типов тестов и полем для ввода промта.
-![Вход](https://github.com/anastaness/cloudru_testops_copilot/raw/main/docs/images/validation.png)
+![Вход](docs/images/validation.png)
 Техническая валидация соединения: системный статус подтсвержает устойчивую связь с Cloud.ru LLM 
-![Вход](https://github.com/anastaness/cloudru_testops_copilot/raw/main/docs/images/.png)
+![Вход](docs/images/.png)
 Результат работы AI: готовый, валидный Python-тест в формате Allure TestOps as Code, сгенерированный за секунды.
 
 ## Команда проекта
