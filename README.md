@@ -12,6 +12,7 @@
 
 Проект представляет собой сервис для автоматической генерации тестов (API, manual в формате Allure TestOps as Code, UI E2E), используя Cloud.ru Foundation Models (Qwen3-Coder 480B A35B Instruct).
 Сервис разворачивается полностью в Docker-контейнерах и доступен сразу после запуска.
+
 **Презентация решения:** [`testops`](docs/TestOpsCopilot.pdf)
 
 ## Демонстрация интерфейса 
